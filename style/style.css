@@ -1,11 +1,11 @@
 @font-face {
     font-family: Netflix sans;
 
-    src: url("./assets/fonts/NetflixSans-Bold.otf");
+    src: url("/assets/fonts/NetflixSans-Bold.otf");
 }
 @font-face {
     font-family: Netflix sans-normal;
-    src: url("./assets/fonts/NetflixSans-Light.otf");
+    src: url("/assets/fonts/NetflixSans-Light.otf");
 }
 *{
     margin: 0;
@@ -20,7 +20,7 @@ body{
     
     position: relative;
     min-height: 100vh;
-    background-image: url("./assets/images/Main.jpg");
+    background-image: url("/assets/images/Main.jpg");
     background-position: center;
     background-repeat: no-repeat;
     border-bottom: 5px solid #2e2d2d;
