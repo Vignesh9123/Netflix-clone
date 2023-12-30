@@ -113,7 +113,13 @@ nav{
 
 }
 .img1 video{
-      position: absolute;
+    position: absolute;
+   width:360px;
+   margin-left: 70px;
+   margin-top: 80px; 
+}
+.img2 video{
+        position: absolute;
     width: 322px;
     margin-left: 85px;
     margin-top: 40px;
